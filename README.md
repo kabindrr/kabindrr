@@ -11,6 +11,7 @@ About Me
 -----------------------------------------------------------------------------------
 
 🛠️ Technologies & Tools
+
 Languages: Javascript, c#, Python
 Frameworks/Libraries: React, Nodejs 
 Tools & Platforms: Docker, AWS, Git
