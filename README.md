@@ -8,14 +8,19 @@ About Me
 💬 Ask Me About: Networking, Javascript, React, Css, web development 
 ⚡ Fun Fact: I love hiking, snowbording, soccor, photography and extreme sports
 
+-----------------------------------------------------------------------------------
+
 🛠️ Technologies & Tools
 Languages: Javascript, c#, Python
 Frameworks/Libraries: React, Nodejs 
 Tools & Platforms: Docker, AWS, Git
+-----------------------------------------------------------------------------------
 
 📫 Get In Touch
 LinkedIn: www.linkedin.com/in/kabindra-ranabhat-31845a92
 Email: emailforkabi@gmail.com
+
+-----------------------------------------------------------------------------------
 
 🤝 How to Contribute
 I’m always open to collaboration and contributions. If you’d like to contribute to one of my projects or have an idea for a new one, please check out the contribution guidelines in the respective repositories.
