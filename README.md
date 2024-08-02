@@ -1,34 +1,42 @@
+# Welcome to My GitHub Profile!
+
 Hello there! I'm Kabindra Ranabhat, a full stack software engineer with a passion for web development, software development and end to end product development. Here you'll find a collection of my projects, repositories, and contributions to the open-source community.
 
+## About Me
 
-About Me
-🌍 Location: Sydney,Australia
-🎓 Education: Bachelor's Degree in Information Technology
-🌱 Learning: Full stack software development lifecycle, Docker, jira, nextjs, node
-💬 Ask Me About: Networking, Javascript, React, Css, web development 
-⚡ Fun Fact: I love hiking, snowbording, soccor, photography and extreme sports
+- 🌍 **Location:** NSW,Sydney,Australia
+- 🎓 **Education:** Bachelor's Degree in Information Technology
+- 🌱 **Learning:** Full stack software development lifecycle, Docker, jira, nextjs, node
+- 💬 **Ask Me About:** Networking, Javascript, React, Css, web development 
+- ⚡ **Fun Fact:** I love hiking, snowbording, soccor, photography, Coding and extreme sports
+ 
+## 📈 My GitHub Stats
 
------------------------------------------------------------------------------------
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-Languages: Javascript, c#, Python
-Frameworks/Libraries: React, Nodejs 
-Tools & Platforms: Docker, AWS, Git
------------------------------------------------------------------------------------
+- **Languages:** JavaScript, Python, C#
+- **Frameworks/Libraries:** React, Node.js, typescript
+- **Tools & Platforms:**  Docker, AWS, Git
 
-📫 Get In Touch
-LinkedIn: www.linkedin.com/in/kabindra-ranabhat-31845a92
-Email: emailforkabi@gmail.com
+## 🚀 Projects
 
------------------------------------------------------------------------------------
 
-🤝 How to Contribute
+Feel free to explore my repositories for more projects and contributions!
+
+## 📫 Get In Touch
+
+- **LinkedIn:** www.linkedin.com/in/kabindra-ranabhat-31845a92
+- **Email:** emailforkabi@gmail.com
+
+## 🤝 How to Contribute
 I’m always open to collaboration and contributions. If you’d like to contribute to one of my projects or have an idea for a new one, please check out the contribution guidelines in the respective repositories.
 
 Thank you for visiting my profile! Feel free to drop me a message if you have any questions or just want to connect. Happy coding!
 
-
+---
 
 
 
