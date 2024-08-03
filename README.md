@@ -12,8 +12,8 @@ Hello there! I'm Kabindra Ranabhat, a full stack software engineer with a passio
  
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabindrr&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabindrr&layout=compact&theme=radical)
 
 ## 🛠️ Technologies & Tools
 
