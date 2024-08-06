@@ -36,10 +36,19 @@ Here are some of the technologies and tools I am familiar with:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+
 ### Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ekahau](https://img.shields.io/badge/Ekahau-FF6F00?style=flat&logo=wifi&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat&logo=wireshark&logoColor=white)
+
+
 
 
 ## 🚀 Projects
