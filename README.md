@@ -19,11 +19,7 @@ Hello there! I'm Kabindra Ranabhat, a full stack software engineer with a passio
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, C#
-- **Frameworks/Libraries:** React, Node.js, typescript
-- **Tools & Platforms:**  Docker, AWS, Git
 
-- ## Skills
 
 Here are some of the technologies and tools I am familiar with:
 
