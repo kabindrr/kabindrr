@@ -61,6 +61,8 @@ Here are some of the technologies and tools I am familiar with:
 Feel free to explore my repositories for more projects and contributions!
 
 ## 📫 Get In Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+
 
 - **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 :** www.linkedin.com/in/kabindra-ranabhat-31845a92
