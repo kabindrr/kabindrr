@@ -3,7 +3,8 @@
 
 # Welcome to My GitHub Profile!
 
-![Full stack Developer](https://github.com/kabindrr/repository-name/raw/main/path-to-image/image.png)
+![Full stack Developer](file:///C:/Users/pureg/Downloads/DALL%C2%B7E%202024-09-25%2014.34.11%20-%20A%20vibrant,%20futuristic%20coding%20scene%20as%20a%20background.%20The%20image%20shows%20glowing%20lines%20of%20code%20cascading%20across%20multiple%20holographic%20screens%20in%20a%20dark%20room.webp)
+
 
 Hello there! I'm Kabindra Ranabhat, a full stack software engineer with a passion for web development, software development and end to end product development. Here you'll find a collection of my projects, repositories, and contributions to the open-source community.
 
