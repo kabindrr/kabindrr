@@ -2,8 +2,9 @@
 
 
 # Welcome to My GitHub Profile!
+<img src="https://i.postimg.cc/mZd3cs07/resized-image-1.png)](https://postimg.cc/Hjy8KfWL" width="300" />
 
-[![resized-image-1.png](https://i.postimg.cc/mZd3cs07/resized-image-1.png)](https://postimg.cc/Hjy8KfWL)
+
 
 
 Hello there! I'm Kabindra Ranabhat, a full stack software engineer with a passion for web development, software development and end to end product development. Here you'll find a collection of my projects, repositories, and contributions to the open-source community.
