@@ -3,7 +3,8 @@
 
 # Welcome to My GitHub Profile!
 
-![Full stack Developer](https://media.licdn.com/dms/image/v2/D5616AQGqjw4Iz4figw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719634216898?e=1729123200&v=beta&t=cK33md6BDJy7aTmeE32nZrdfmy4NZqeHEDRQTVRS4xQ)
+![Full stack Developer](https://github.com/kabindrr/repository-name/raw/main/path-to-image/image.png)
+
 Hello there! I'm Kabindra Ranabhat, a full stack software engineer with a passion for web development, software development and end to end product development. Here you'll find a collection of my projects, repositories, and contributions to the open-source community.
 
 ## About Me
