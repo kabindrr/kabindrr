@@ -3,7 +3,7 @@
 
 # Welcome to My GitHub Profile!
 
-![Full stack Developer](C:\Users\pureg\Downloads\oskar-yildiz-cOkpTiJMGzA-unsplash.jpg)
+![Full stack Developer](https://i.postimg.cc/D0fc9fRw/DALL-E-2024-09-25-14-34-11-A-vibrant-futuristic-coding-scene-as-a-background-The-image-shows-glo.webp)
 
 
 Hello there! I'm Kabindra Ranabhat, a full stack software engineer with a passion for web development, software development and end to end product development. Here you'll find a collection of my projects, repositories, and contributions to the open-source community.
