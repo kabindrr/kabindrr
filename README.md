@@ -1,3 +1,6 @@
+![GitHub Profile Image](https://your-repo-link.com/path-to-image.png)
+
+
 # Welcome to My GitHub Profile!
 
 Hello there! I'm Kabindra Ranabhat, a full stack software engineer with a passion for web development, software development and end to end product development. Here you'll find a collection of my projects, repositories, and contributions to the open-source community.
