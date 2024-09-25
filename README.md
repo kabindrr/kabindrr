@@ -2,7 +2,7 @@
 
 
 # Welcome to My GitHub Profile!
-<img src="https://i.postimg.cc/mZd3cs07/resized-image-1.png)](https://postimg.cc/Hjy8KfWL" width="600" />
+<img src="https://i.postimg.cc/mZd3cs07/resized-image-1.png)](https://postimg.cc/Hjy8KfWL" width="400" style="display: block; margin-left: auto; margin-right: auto;" />
 
 
 
